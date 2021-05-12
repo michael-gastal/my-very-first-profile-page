@@ -74,6 +74,7 @@ a:hover {
   display: inline-block;
   padding: 0 12px;
   font-size: 32px;
+  margin-bottom: 0;
 }
 
 .list-inline {
@@ -95,4 +96,8 @@ a:hover {
 
 .intro {
   padding-bottom: 56px;
+}
+
+.links > h2 {
+  margin-top: 0;
 }
